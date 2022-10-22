@@ -1,6 +1,6 @@
-# Корутины и базовые принципы.
+# Coroutines and basic principles.
 
-## Корутины это со программы.
+## Coroutines are from the program.
 
 Coroutines allow you to perform asynchronous operations that can be suspended. And then continue doing it.
 Coroutines are often compared to threads, but this is not true since threads are used to organize multitasking.
@@ -78,7 +78,7 @@ were added via the `kotlinx.korutines` library: https://github.com/Kotlin/kotlin
 * [Coroutines design document (KEEP)](https://github.com/Kotlin/KEEP/blob/master/proposals/coroutines.md)
 * [Full kotlinx.coroutines API reference](https://kotlinlang.org/api/kotlinx.coroutines/)
 
-## Использование в своих проектах
+## Use in your projects
 
 ### Gradle
 
